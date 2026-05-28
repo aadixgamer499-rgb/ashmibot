@@ -103,4 +103,4 @@ async def setup_verify(ctx):
     await ctx.message.delete()
 
 keep_alive()
-bot.run('MTUwOTYxMjIzNzI0Mzk0MDg3NA.Gb_v-3.dFqur2mQ2TuPJuqndxd0hP_xqc5D3bd-5nTlsI')
+bot.run('DISCORD_TOKEN')
